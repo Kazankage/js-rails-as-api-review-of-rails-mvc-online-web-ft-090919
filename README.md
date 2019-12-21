@@ -1,4 +1,4 @@
-# Review of the Rails MVC
+lear# Review of the Rails MVC
 
 ## Learning Goals
 
